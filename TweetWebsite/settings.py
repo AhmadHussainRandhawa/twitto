@@ -35,7 +35,7 @@ DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False  # Set to False for production
+DEBUG = True  # Set to False for production
 
 # Add your PythonAnywhere domain and other allowed hosts
 ALLOWED_HOSTS = ['ahmadhussain.pythonanywhere.com', 'localhost', '127.0.0.1']

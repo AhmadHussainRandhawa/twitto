@@ -1,66 +1,39 @@
 # Twitto
 
-A simple Twitto app built using Django, allowing users to post tweets with images.
+A **microblogging platform** built with Django, allowing users to post, edit, and delete tweets with optional images.  
 
-## Features
+Twitto demonstrates practical Django skills in models, forms, views, authentication, media handling, and responsive UI design. This project is a clean, functional example of a web application following real-world backend and frontend practices.
 
-- User authentication (Login, Register, Logout)
-- Create, update, and delete tweets
-- Image uploads with tweets
-- Responsive dark mode UI
-- Trending and profile sections (Currently static)
+---
 
-## Installation 
+# Project Preview
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/twitter-clone.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd twitter-clone
-   ```
-3. Create a virtual environment and activate it:
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
-   ```
-4. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-5. Apply migrations:
-   ```sh
-   python manage.py migrate
-   ```
-6. Run the development server:
-   ```sh
-   python manage.py runserver
-   ```
-7. Access the app at `http://127.0.0.1:8000/`
+## Tweet List / Homepage
 
-## Usage
+![Tweet List](screenshots/tweet_list.png)
 
-- Register an account
-- Log in to start tweeting
-- Add images to your tweets
-- Explore trending topics (Static for now)
-- Edit or delete your own tweets
+---
 
-## Future Plans
+## Create Tweet
 
-- Add likes, comments, and retweets
-- Implement user profiles
-- Enhance UI with animations
-- Integrate real-time notifications
+![Create Tweet](screenshots/tweet_create.png)
 
-## Reach Me
+---
 
-Feel free to connect with me on LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ahmad-hussain-randhawa/) 
-## Live Demo
+## Edit Tweet
 
-Check out the live version here: [Live Demo](https://ahmadhussain.pythonanywhere.com/twitto/)
+![Edit Tweet](screenshots/tweet_edit.png)
 
-## Demo Video
+---
 
-Watch the demo of the site here: [Video Walkthrough](https://www.linkedin.com/posts/ahmad-hussain-randhawa_twitter-is-banned-in-pakistan-no-worries-activity-7305853963977805824-sVpI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK_lyIBQ2ZNZsDPfp6CJVVTPrDpzO6jKTw)
+## Delete Tweet Confirmation
+
+![Delete Tweet](screenshots/tweet_delete.png)
+
+---
+
+## Contact Form
+
+![Contact Form](screenshots/contact_form.png)
+
+---
