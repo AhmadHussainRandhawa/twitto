@@ -63,3 +63,37 @@ Twitto demonstrates practical Django skills in models, forms, views, authenticat
 7. Contact form sends messages to the configured admin email  
 
 ---
+
+# Technical Highlights
+
+### Backend
+
+- Django framework with Python  
+- SQLite database (development)  
+- CRUD operations with class-based views and function-based views  
+- Media handling with Django `ImageField`  
+
+### Frontend
+
+- HTML Templates with Bootstrap 5  
+- Responsive dark mode layout  
+- Navbar with search bar and authentication links  
+
+### Authentication & Authorization
+
+- Django's built-in user model  
+- `@login_required` decorators for tweet creation, editing, and deletion  
+- User-specific access control: users can only modify their own tweets  
+
+### Search
+
+- Case-insensitive text search on tweet content  
+- Implemented using Django ORM filters (`icontains`)  
+
+### Contact Form
+
+- Validates required fields  
+- Sends email to the configured admin email via SMTP  
+
+---
+
