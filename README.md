@@ -97,3 +97,30 @@ Twitto demonstrates practical Django skills in models, forms, views, authenticat
 
 ---
 
+# Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/<your-username>/twitto.git
+   cd twitto
+   ```
+
+2. Create a virtual environment and activate it:
+   ```sh
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   ```
+4. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+5. Apply migrations:
+   ```sh
+   python manage.py migrate
+   ```
+6. Run the development server:
+   ```sh
+   python manage.py runserver
+   ```
+7. Access the app at `http://127.0.0.1:8000/`
