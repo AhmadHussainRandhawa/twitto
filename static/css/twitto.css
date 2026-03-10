@@ -1,0 +1,30 @@
+/* static/css/twitto.css */
+
+/* Force consistent image height while keeping aspect ratio and center crop */
+.tweet-image {
+    width: 100%;
+    height: 240px;            /* tweak this value to taste (200–320px are common) */
+    object-fit: cover;        /* preserve aspect ratio, crop to fill */
+    object-position: center;  /* center the crop */
+    display: block;
+}
+
+/* Make card bodies uniform and push actions to the bottom */
+.card .card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+/* Ensure tweet text doesn't push layout wildly — let it wrap naturally */
+.tweet-text {
+    white-space: normal;
+    overflow: hidden; /* prevents huge expansions from extremely long unbroken content */
+}
+
+/* Responsive tweak: slightly shorter image on small screens */
+@media (max-width: 768px) {
+    .tweet-image {
+        height: 160px;
+    }
+}
