@@ -8,14 +8,6 @@ Twitto demonstrates practical Django skills in models, forms, views, authenticat
 
 # Project Preview
 
-## Login Form
-
-![Login Form](doc/screenshots/login.png)
-
----
-
----
-
 ## Tweet List / Homepage
 
 ![Tweet List](doc/screenshots/tweet_list.png)
@@ -40,6 +32,13 @@ Twitto demonstrates practical Django skills in models, forms, views, authenticat
 
 ---
 
+---
+
+## Login Form
+
+![Login Form](doc/screenshots/login.png)
+
+---
 
 # Core Features
 
@@ -124,3 +123,35 @@ Twitto demonstrates practical Django skills in models, forms, views, authenticat
    python manage.py runserver
    ```
 7. Access the app at `http://127.0.0.1:8000/`
+
+## Usage
+
+- Register an account
+- Log in to start tweeting
+- Add images to your tweets
+- Explore trending topics (Static for now)
+- Edit or delete your own tweets
+
+## Future Plans
+
+- Add likes, comments, and retweets
+- Implement user profiles
+- Enhance UI with animations
+- Integrate real-time notifications
+ 
+
+# License
+
+MIT License
+
+---
+
+# Contact 💀 
+
+[<img src="https://img.icons8.com/3d-fluency/30/secured-letter.png" alt="Email" style="vertical-align: middle;"/> official.ahmadrandhawa@gmail.com](mailto:official.ahmadrandhawa@gmail.com)   
+[<img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="26" alt="LinkedIn"/>  LinkedIn Profile](https://www.linkedin.com/in/ahmad-hussain-randhawa/)  
+[<img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" width="26" alt="GitHub"/>  GitHub Profile](https://github.com/AhmadHussainRandhawa)   
+
+---
+
+> *"If you have any questions or want to collaborate on something, feel free to email me (without any hesitation)... I might be a little busy sometimes, but I’ll definitely reply."*
