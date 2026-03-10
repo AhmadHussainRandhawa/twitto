@@ -8,35 +8,38 @@ Twitto demonstrates practical Django skills in models, forms, views, authenticat
 
 # Project Preview
 
+## Login Form
+
+![Login Form](doc/screenshots/login.png)
+
+---
+
+---
+
 ## Tweet List / Homepage
 
-![Tweet List](screenshots/tweet_list.png)
+![Tweet List](doc/screenshots/tweet_list.png)
 
 ---
 
 ## Create Tweet
 
-![Create Tweet](screenshots/tweet_create.png)
-
----
-
-## Edit Tweet
-
-![Edit Tweet](screenshots/tweet_edit.png)
+![Create Tweet](doc/screenshots/tweet_create.png)
 
 ---
 
 ## Delete Tweet Confirmation
 
-![Delete Tweet](screenshots/tweet_delete.png)
+![Delete Tweet](doc/screenshots/tweet_delete.png)
 
 ---
 
 ## Contact Form
 
-![Contact Form](screenshots/contact_form.png)
+![Contact Form](doc/screenshots/contact_form.png)
 
 ---
+
 
 # Core Features
 
