@@ -220,5 +220,5 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for the full text.
 **Ahmad Hussain**
 
 - GitHub — [@AhmadHussainRandhawa](https://github.com/AhmadHussainRandhawa)
-- LinkedIn: [Ahmad Hussain](https://www.linkedin.com/in/ahmad-hussain-randhawa/)
+- LinkedIn — [Ahmad Hussain](https://www.linkedin.com/in/ahmad-hussain-randhawa/)
 - Project — [Twitto](https://github.com/AhmadHussainRandhawa/twitto)
