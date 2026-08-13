@@ -199,7 +199,6 @@ Have an idea that's not listed? [Open an issue](https://github.com/AhmadHussainR
 <br>
 
 ## Contributing
-## Contributing
 
 Contributions are welcome! Whether you're fixing a bug, improving documentation, adding tests, or proposing a new feature, your contribution can help make Twitto better.
 
